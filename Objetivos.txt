@@ -1,0 +1,7 @@
+- Hacer Escuela
+- Encontrar Iglesia Low Poly
+- Encontrar Carteles
+- Encontrar Letras 3D
+- Hacer Objetos Interactuables
+- Hacer Sistema Dialogos (Con posibles respuestas si da tiempo)
+- Hacer un sistema de navegación
