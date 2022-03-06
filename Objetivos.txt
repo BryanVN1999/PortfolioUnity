@@ -1,7 +1,11 @@
-- Hacer Escuela
-- Encontrar Iglesia Low Poly
-- Encontrar Carteles
-- Encontrar Letras 3D
-- Hacer Objetos Interactuables
-- Hacer Sistema Dialogos (Con posibles respuestas si da tiempo)
-- Hacer un sistema de navegación
+- Decorar Escuela.
+- Decorar Iglesia Low Poly.
+- Hacer pantalla de carga.
+- Buscar cosas de WebGL.
+- TERMINAR DECORACION MAPA.
+
+
+- Hacer un sistema de navegación de los ciudadanos(si da tiempo).
+- Hacer algun minijuego (si da tiempo).
+- Hacer Sistema de Dia/Noche.
+- Encender las antorchas, faros y fuegos cuando anochezca, y apagarlos cuando amanezca.
